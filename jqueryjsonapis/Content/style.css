@@ -74,3 +74,9 @@ input {
 #recipesTitleBox {
     font-size:22px;
 }
+#addRecipesButton {
+     width: 20%;
+    background-color: #48c869;
+    border-color:white;
+    margin-top:30px;
+}
